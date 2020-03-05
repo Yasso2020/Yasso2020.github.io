@@ -1,0 +1,53 @@
+body{
+    padding: 0px;
+    margin: 0px;
+}
+#principal{
+    background-image: url(image/avion_edited.jpg);
+    background-repeat: no-repeat;
+    text-align: center;
+    width: 1200px;
+    height: 800px;
+    margin: auto;
+
+}
+
+#tete{
+    color: black;
+    font-family: cursive ;
+    font-style: italic;
+   background-color: rgb(230, 200, 124);
+    height: 50px;
+    width: 1200px;
+    position: fixed;
+}
+
+li  {
+    
+    display: inline-block;
+    text-align: center;
+    padding: 10px;
+    width: 100px;
+    height: 20px;
+    cursor: pointer;
+
+
+}
+
+a{
+    text-decoration: none;
+    color: beige;
+}
+
+a:hover{
+    text-decoration: underline;
+}
+div .text{
+    color: white;
+    font-family: cursive;
+    font-style: italic;
+    padding-top: 150px;
+    width: 1000px;
+    height: 200px;
+    margin: auto;
+}
